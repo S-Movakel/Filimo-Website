@@ -43,8 +43,6 @@ Do you have any **COMMENTS**? SHARE THEM WITH ME.
 🖥️ Please click on the **LINK** below to view the demo.
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=css)](https://S-Movakel.github.io/Image-Gallery-Unsplash)
-
 
 ## 🚀 My PROJECT
 
