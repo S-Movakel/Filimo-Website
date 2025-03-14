@@ -19,7 +19,7 @@
 
 ## 🚀 My PROJECT
 
-![Preview](https://github.com/S-Movakel/Image-Gallery-Unsplash/blob/main/Preview-Full.png)
+
 
 ## 📧 CONTACT ME:
 Please click on the **LINKS** below to contact me.
