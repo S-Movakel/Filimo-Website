@@ -1,6 +1,6 @@
 # Filimo-Website
 
-**RESPONSIVE Unsplash** website home page with **IMAGE GALLERY** using **HTML** , **CSS**
+**FILIMO** website home page with using **HTML** , **CSS**
 
 
 
