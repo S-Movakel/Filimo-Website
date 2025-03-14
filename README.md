@@ -1,6 +1,6 @@
 # Filimo-Website
 
-**FILIMOoooooo** website home page with using **HTML** , **CSS**
+**FILIMOooooo** website home page with using **HTML** , **CSS**
 
 
 
