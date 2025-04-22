@@ -20,14 +20,6 @@
 ## 🚀 My PROJECT
 <p align="center">
   <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/0.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/1.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/2.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/3.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/4.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/5.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/6.png" alt="My Project" width="1200" />
-  <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/7.png" alt="My Project" width="1200" />
-   <img src="https://github.com/s-movakel/Filimo-Website/raw/main/previews/8.png" alt="My Project" width="1200" />
 </p>
 
 
