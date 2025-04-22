@@ -14,11 +14,21 @@
 
 ## 👀 VIEW DEMO
 🖥️ Please click on the **LINK** below to view the demo.
-
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=css)](https://s-movakel.github.io/Filimo-Website)
 
 
 ## 🚀 My PROJECT
-[![View Demo](https://img.shields.io/badge/View-Demo-blue?style=for-the-badge&logo=css)](https://s-movakel.github.io/Filimo-Website)
+<p align="center">
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/0.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/1.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/2.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/3.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/4.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/5.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/6.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/7.png" alt="My Project" width="1200" />
+   <img src="https://github.com/s-movakel/Edu-Website-Tailwind/raw/main/previews/8.png" alt="My Project" width="1200" />
+</p>
 
 
 ## 📧 CONTACT ME:
