@@ -1,4 +1,4 @@
-# Filimo-Websiteo
+# Filimo-Website
 
 **FILIMO** website home page with using **HTML** , **CSS**
 
